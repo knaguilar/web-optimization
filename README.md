@@ -1,4 +1,4 @@
-### Website Performance Optimization portfolio project
+# Website Performance Optimization portfolio project
 
 ## Getting started
 1) Download all the files into your local computer and open index.html in a browser.
@@ -9,7 +9,7 @@ or
 
 ## Optimizations made:
 
-# index.html
+### index.html
 In order to make it get a score higher than 90 on PageSpeed I did the following optimizations:
 - inlined css
 - async google analytics
@@ -18,7 +18,7 @@ In order to make it get a score higher than 90 on PageSpeed I did the following 
 - resized pizzeria.jpg
 - removed google fonts
 
-# views/js/main.js
+### views/js/main.js
 Two main changes had to happen here: pizza slider had to resize in less than 5ms & scrolling had to run at 60 fms.
 
 Pizza Slider Optimizations:
